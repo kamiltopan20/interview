@@ -16,7 +16,5 @@ password : gudang
 untuk menunya nya admin ada menu Data master, dan Manajemen User
 sementara untuk menu gudang hanya ada menu Data Master
 
-alhadi.strong@gmail.com
-
 untuk database di mysql hanya tinggal mengimport dengan nama sekolah dengan cara
 buka localhost/phpmyadmin -> new-> lalu masukan nama sekolah-> kemudian import database
